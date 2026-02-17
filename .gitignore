@@ -39,3 +39,32 @@
 
 # debug information files
 *.dwo
+
+# Visual Studio specific files and folders
+.vs/
+Debug/
+Release/
+x64/
+ARM/
+ARM64/
+Win32/
+*.suo
+*.user
+*.opensdf
+*.sdf
+*.cache
+*.exp
+*.tlog
+*.ipch
+*.aps
+*.res
+*.recipe
+*.log
+*.lastbuildstate
+ipch/
+*.VC.db
+*.VC.opendb
+*.opendb
+vcpkg.applocal.log
+*.filters
+*.sln.docstates
